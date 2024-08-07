@@ -1,0 +1,48 @@
+#baseURL = 'https://localhost/'
+baseURL = 'http://www.ps3linux.net/devel/'
+languageCode = 'en-us'
+title = 'PS3LINUX.NET'
+favicon = 'http://www.ps3linux.net/devel/favicon.ico'
+
+[[menu.main]]
+    name = 'Wilkommen'
+    url = '/'
+    weight = 1
+[[menu.main]]
+    name = 'Jailbreaking'
+    url = '/jailbreaking/'
+    weight = 2
+[[menu.main]]
+    name = 'PS3 Fedora'
+    url = '/ps3fedora/'
+    weight = 3
+[[menu.main]]
+    name = 'PS3 Gentoo'
+    url = '/ps3gentoo/'
+    weight = 4
+[[menu.main]]
+    name = 'PS3 Linux from Scratch'
+    url = '/ps3lfs/'
+    weight = 5
+[[menu.main]]
+    name = 'Cell System Simulator'
+    url = '/systemsim-cell/'
+    weight = 6
+[[menu.main]]
+    name = 'Extras'
+    url = '/extras/'
+    weight = 7
+
+[params]
+    author = 'Model Citizen'
+    description = 'Obsessed with Linux on Playstation 3 and the Cell/B.E.'
+    menu_item_separator = '<br>'
+    [[params.social]]
+        icon = "github"
+        name = "Github"
+        url = "https://github.com/ModelCitizenPS3/"
+    [[params.social]]
+        icon = "youtube"
+        name = "Youtube"
+        url = "https://www.youtube.com/channel/UCt1mQjAb5WNd9fGsDX-rc9A/"
+
