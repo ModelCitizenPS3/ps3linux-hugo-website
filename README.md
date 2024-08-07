@@ -6,5 +6,5 @@ This repo contains the directory tree for what will become my new website, devel
 
 This site is hosted on my web server and currently resides in a temporary "development" directory located here: [www.ps3linux.net/devel](http://www.ps3linux.net/devel).
 
-Feel free to check up on my progress. Hopefully I will have to new site ready to publish and replace my crappy old site very soon.
+Feel free to check up on my progress. Hopefully I will have the new site ready to publish and replace my crappy old site very soon.
 
