@@ -5,7 +5,7 @@ draft = false
 layout = 'single'
 +++
 
-# Misc Downloads
+## Misc Downloads
 
 * [Yellow Dog Linux 6.2 PPC DVD for PS3](http://www.ps3linux.net/devel/yellowdog-6.2-ppc-DVD.iso)
 
