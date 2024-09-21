@@ -1,8 +1,7 @@
-#baseURL = 'https://localhost/'
 baseURL = 'http://www.ps3linux.net/devel/'
 languageCode = 'en-us'
 title = 'PS3LINUX.NET'
-favicon = 'http://www.ps3linux.net/devel/favicon.ico'
+favicon = '/favicon.ico'
 
 [[menu.main]]
     name = 'Wilkommen'
@@ -35,7 +34,7 @@ favicon = 'http://www.ps3linux.net/devel/favicon.ico'
 
 [params]
     author = 'Model Citizen'
-    description = 'Obsessed with Linux on Playstation 3 and the Cell/B.E.'
+    description = 'Obsessed with Linux on Playstation 3 and the Cell CPU'
     menu_item_separator = '<br>'
     [[params.social]]
         icon = "github"
