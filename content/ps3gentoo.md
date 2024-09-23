@@ -5,5 +5,7 @@ draft = false
 layout = 'single'
 +++
 
-PS3 Gentoo content
+---
+
+COMMING SOON: PS3 Gentoo content
 

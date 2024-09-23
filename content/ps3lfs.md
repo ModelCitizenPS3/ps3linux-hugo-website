@@ -5,5 +5,7 @@ draft = false
 layout = 'single'
 +++
 
-PS3 Linux from Scratch content
+---
+
+COMMING SOON: PS3 Linux from Scratch content
 
