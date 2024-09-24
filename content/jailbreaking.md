@@ -7,9 +7,10 @@ layout = 'single'
 
 ---
 
-### DISCLAIMER: For education only. If you brick your console, that's YOUR fault!
+## DISCLAIMER  
+## *For education only. If you brick your console, that's YOUR fault!*
 
-#### Downgrading the Playstation 3 to re-enable OtherOS (Linux)
+### Downgrading the Playstation 3 to re-enable OtherOS (Linux)
 
 1. [https://www.ps3toolset.com/bgtoolset](https://www.ps3toolset.com/bgtoolset)  
 Navigate your Playstation 3's GameOS web browser to this website and jailbreak that sweet machine!
