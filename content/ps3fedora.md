@@ -25,8 +25,8 @@ Showcasing some of the services my Playstation 3 provides on my home network - i
 
 #### Some Scripts I Wrote for Fedora 12 on PS3 (post-install)
 
-* [ps3-goodrepos](http://www.ps3linux.net/devel/ps3-filez/ps3-goodrepos.tar.bz2)  
+* [ps3-goodrepos](http://www.ps3linux.net/ps3-filez/ps3-goodrepos.tar.bz2)  
 Script to configure yum repos and run update after fresh Fedora 12 installation on Playstatiion 3  
-* [ps3-cellsdk-install](http://www.ps3linux.net/devel/ps3-filez/ps3-cellsdk-install.tar.bz2)  
-Script to configure yum to access the [Cell Software Development Kit (SDK) yum repos](http://www.ps3linux.net/devel/cellsdk-repos) (hosted here by me)
+* [ps3-cellsdk-install](http://www.ps3linux.net/ps3-filez/ps3-cellsdk-install.tar.bz2)  
+Script to configure yum to access the [Cell Software Development Kit (SDK) yum repos](http://www.ps3linux.net/cellsdk-repos) (hosted here by me)
 

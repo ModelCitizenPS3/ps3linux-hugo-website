@@ -9,5 +9,5 @@ layout = 'single'
 
 ### Misc Downloads
 
-* [Yellow Dog Linux 6.2 PPC DVD for PS3](http://www.ps3linux.net/devel/ps3-filez/yellowdog-6.2-ppc-DVD.iso)
+* [Yellow Dog Linux 6.2 PPC DVD for PS3](http://www.ps3linux.net/ps3-filez/yellowdog-6.2-ppc-DVD.iso)
 

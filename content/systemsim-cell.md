@@ -13,11 +13,11 @@ IBM's Cell CPU Full System Simulator is basically a super debugger for Cell appl
 
 #### Documenation
 
-* [Installing the Full System Simulator](http://www.ps3linux.net/devel/ps3-filez/SystemSim.Installation.pdf)
-* [IBM Full-System Simulator User's Guide](http://www.ps3linux.net/devel/ps3-filez/SystemSim.Users.Guide.pdf)
-* [Performance Analysis with the IBM Full-System Simulator](http://www.ps3linux.net/devel/ps3-filez/SystemSim.PerfAnalysis.Guide.pdf)
+* [Installing the Full System Simulator](http://www.ps3linux.net/ps3-filez/SystemSim.Installation.pdf)
+* [IBM Full-System Simulator User's Guide](http://www.ps3linux.net/ps3-filez/SystemSim.Users.Guide.pdf)
+* [Performance Analysis with the IBM Full-System Simulator](http://www.ps3linux.net/ps3-filez/SystemSim.PerfAnalysis.Guide.pdf)
 
 #### Download
 
-* [IBM Full-System Simulator for the CBE Processor](http://www.ps3linux.net/devel/ps3-filez/IBM_Full-System_Simulator_for_the_CBE_Processor.tar.bz2)
+* [IBM Full-System Simulator for the CBE Processor](http://www.ps3linux.net/ps3-filez/IBM_Full-System_Simulator_for_the_CBE_Processor.tar.bz2)
 

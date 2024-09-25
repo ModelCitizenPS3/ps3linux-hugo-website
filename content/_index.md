@@ -9,7 +9,7 @@ layout = 'single'
 
 ## THE MODEL CITIZEN (he/him/webmaster)
 
-![Cell CPU](http://www.ps3linux.net/devel/pics/cell_cpu_320.png)
+![Cell CPU](http://www.ps3linux.net/pics/cell_cpu_320.png)
 
 ### *Wilkommen in meinem Playstation 3 Linux Land!*
 
@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consectetur accum
 #### My Playstation 3(s)
 
 Model: [CECHP-01](https://www.psdevwiki.com/ps3/CECHPxx)  
-Firmware: [Sony (Official) 3.15 DEX](http://www.ps3linux.net/devel/ps3-filez/SONY_PS3_FIRMWARE_3.15_DEX_PS3UPDAT.PUP)  
+Firmware: [Sony (Official) 3.15 DEX](http://www.ps3linux.net/ps3-filez/SONY_PS3_FIRMWARE_3.15_DEX_PS3UPDAT.PUP)  
 Operating System(s): Fedora ppc64 (Custom), [Gentoo ppc64](https://www.gentoo.org/downloads/#ppc), [Linux From Scratch](https://www.linuxfromscratch.org/)
 
 Model: [CECHH-00](https://www.psdevwiki.com/ps3/CECHHxx) (YLOD)  
