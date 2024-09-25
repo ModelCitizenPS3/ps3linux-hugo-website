@@ -24,13 +24,17 @@ favicon = 'http://www.ps3linux.net/devel/pics/favicon.ico'
     url = '/ps3lfs/'
     weight = 5
 [[menu.main]]
+    name = 'Cell Development'
+    url = '/cell-development/'
+    weight = 6
+[[menu.main]]
     name = 'Cell System Simulator'
     url = '/systemsim-cell/'
-    weight = 6
+    weight = 7
 [[menu.main]]
     name = 'Extras'
     url = '/extras/'
-    weight = 7
+    weight = 8
 
 [params]
     author = 'Model Citizen'
