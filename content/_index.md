@@ -18,12 +18,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id pulvinar era
 #### My Playstation 3 Consoles
 
 Name: The Gibson  
-Model: CECHP-01  
+Model: [CECHP-01](https://www.psdevwiki.com/ps3/CECHPxx)  
 Firmware: Sony (Official) 3.15 DEX  
 Operating System(s): GameOS (Sony), Fedora 12, Gentoo, and Linux From Scratch
 
 Name: Cordulla  
-Model: CECHH-00 (YLOD)  
+Model: [CECHH-00](https://www.psdevwiki.com/ps3/CECHHxx) (YLOD)  
 Firmware: EVILNAT 4.91.2 (Custom Firmware)  
 Operating System(s): GameOS (Sony)
 
