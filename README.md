@@ -1,10 +1,10 @@
-## ps3linux-hugo-website
+# ps3linux-hugo-website
 
-My current website, [PS3LINUX.NET](http://www.ps3linux.net), is very crappy. This is something that I know.
+---
 
-This repo contains the directory tree for what will become my new website, developed with the help of an open source project called HUGO, which is a *static site generator*.
+![website screenshot](static/pics/ps3linux-website-screenshot_360.jpg)
 
-This site is hosted on my web server and currently resides in a temporary "development" directory located here: [www.ps3linux.net/devel](http://www.ps3linux.net/devel).
+This git repo contains the resources used to generate my website ([PS3LINUX.NET](http://www.ps3linux.net)) using [HUGO](https://gohugo.io) (an open source "static website generator" written in GO).
 
-Feel free to check up on my progress. Hopefully I will have the new site ready to publish and replace my crappy old site very soon.
+Obviously this website is still very much a work in progress, but I have gone ahead and published it on my web server (a home built desktop/gaming rig running the latest [Fedora Server](https://fedoraproject.org) OS).
 
