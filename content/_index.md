@@ -5,13 +5,13 @@ draft = false
 layout = 'single'
 +++
 
----
-
 ### THE MODEL CITIZEN (he/him/webmaster)
+
+---
 
 ![Cell CPU](/pics/cell_cpu_320.png)
 
-### *Wilkommen in meinem Playstation 3 Linux Land!*
+### **Wilkommen in meinem Playstation 3 Linux Land!**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id pulvinar erat, ac tempus dolor. Nulla facilisi. Donec scelerisque non ante quis elementum. Nulla facilisi. Morbi turpis magna, fringilla sit amet odio ut, rhoncus efficitur dolor. Nam et suscipit nisi. Nulla facilisi. Maecenas porta urna lacus, eget placerat neque pretium lacinia. Suspendisse maximus massa id neque ornare, consectetur mattis ipsum convallis. In blandit lobortis nisi semper tempus. Morbi egestas turpis nec turpis consequat molestie ac quis urna. Praesent ac viverra.
 

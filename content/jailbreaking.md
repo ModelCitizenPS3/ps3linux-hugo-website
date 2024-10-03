@@ -5,11 +5,11 @@ draft = false
 layout = 'single'
 +++
 
----
-
 ### DISCLAIMER: *For education only. If you brick your console, that's YOUR fault!*
 
-![Mean Console](/pics/640-ps3-black-bg-300.jpg)
+---
+
+![Mean Console](/pics/640-ps3-black-bg-320.jpg)
 
 This page contains all the files I used in the process of setting up my Playstation 3 to boot and run Linux. It also contains an outline of the steps I followed to complete the procedure. Links to important websites (like Bguerville's magical [ps3toolset](https://www.ps3toolset.com/bgtoolset) - THANK YOU, BGUERVILLE; GREAT WORK!) and some helpful Youtube tutorials are provided as well.
 
@@ -66,6 +66,14 @@ After reboot, your PS3 will load the petitboot bootloader menu; you can now go a
 My strong suggestion would be to try out Fedora 12, a stupendous operating system for the PS3.  
 Follow this video by me (the Model Citizen) demonstrating a network (diskless) Fedora 12 install on my own PS3:  
 [PS3 Fedora Server Install (OtherOS) Diskless](https://youtu.be/D9LcyRV84LI)
+
+#### To Convert Firmware Type from DEX (debug) Back to CEX (retail)
+
+1. ***Install REBUG_CRC63F00899_FWv4.84.2_D-REX_PS3UPDAT.PUP Custom Firmware***  
+Update system firmware with this REBUG DEX custom firmware, which can be converted from CEX back to DEX.
+2. ***Execute Firmware Conversion***  
+Follow this video by ZoexModz if needed to perform DEX to CEX conversion:  
+[DEX to CEX & eid_root_key Fix](https://youtu.be/MyOmOz6P898)
 
 ---
 
