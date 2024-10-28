@@ -5,7 +5,11 @@ draft = false
 layout = 'single'
 +++
 
+## Gentoo Linux on the Playstation 3
+
 ---
+
+
 
 COMMING SOON: PS3 Gentoo content
 

@@ -5,9 +5,11 @@ draft = false
 layout = 'single'
 +++
 
-### Fedora 12 (ppc) on Playstation 3
+## Fedora 12 (ppc) on Playstation 3
 
 ---
+
+![Prettu PS3 Pic](/pics/ps3-good-angle-320.jpg)
 
 The latest Fedora release that is compatible/installable on the Playstation 3 is Fedora 12 (ppc). There are several good reasons to choose Fedora 12 as your PS3 Linux distro. For one thing, the online software repositories are still up (archived) and accessible. Obviously they are no longer receiving updates, but the volume/variety of applications they provide is impressive. This also includes the RPM Fusion repos. Furthermore, the programming tools and libraries for the PS3's Cell architecture were developed by Sony/IBM to install and run on RPM based distributions (such as Fedora or RHEL) and I have personally confirmed that these tools do install and function properly in Fedora 12 with minimal issues/complications.
 

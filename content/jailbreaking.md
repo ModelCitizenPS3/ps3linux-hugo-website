@@ -5,11 +5,11 @@ draft = false
 layout = 'single'
 +++
 
-### DISCLAIMER: *For education only. If you brick your console, that's YOUR fault!*
+## DISCLAIMER: *For education only. If you brick your console, that's YOUR fault!*
 
 ---
 
-![Mean Console](/pics/640-ps3-black-bg-320.jpg)
+![Black Beauty](/pics/ps3-black-bg-320.jpg)
 
 This page contains all the files I used in the process of setting up my Playstation 3 to boot and run Linux. It also contains an outline of the steps I followed to complete the procedure. Links to important websites (like Bguerville's magical [ps3toolset](https://www.ps3toolset.com/bgtoolset) - THANK YOU, BGUERVILLE; GREAT WORK!) and some helpful Youtube tutorials are provided as well.
 
@@ -70,9 +70,9 @@ Follow this video by me (the Model Citizen) demonstrating a network (diskless) F
 #### To Convert Firmware Type from DEX (debug) Back to CEX (retail)
 
 1. ***Install REBUG_CRC63F00899_FWv4.84.2_D-REX_PS3UPDAT.PUP Custom Firmware***  
-Update system firmware with this REBUG DEX custom firmware, which can be converted from CEX back to DEX.
+Update system firmware with this REBUG DEX custom firmware, which can be converted from DEX back to CEX.
 2. ***Execute Firmware Conversion***  
-Follow this video by ZoexModz if needed to perform DEX to CEX conversion:  
+Follow this video by ZoexModz to perform DEX to CEX conversion:  
 [DEX to CEX & eid_root_key Fix](https://youtu.be/MyOmOz6P898)
 
 ---

@@ -37,7 +37,7 @@ favicon = '/pics/favicon.ico'
     weight = 8
 
 [params]
-    author = 'Model Citizen'
+    author = 'The Model Citizen'
     description = 'Obsessed with Linux on Playstation 3 and the Cell CPU'
     avatar = '/pics/avatar.jpg'
     menu_item_separator = '<br>'
