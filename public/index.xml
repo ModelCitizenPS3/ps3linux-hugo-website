@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PLAYSTATION 3 LINUX - Powered by the Cell Broadband Engine on PS3LINUX.NET</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in PLAYSTATION 3 LINUX - Powered by the Cell Broadband Engine on PS3LINUX.NET</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Sep 2024 01:12:42 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cell Development</title>
+      <link>http://localhost:1313/cell-development/</link>
+      <pubDate>Wed, 25 Sep 2024 01:12:42 -0400</pubDate>
+      <guid>http://localhost:1313/cell-development/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;cellbe-development-tools-and-resources&#34;&gt;Cell/B.E. Development Tools and Resources&lt;/h2&gt;&#xA;&lt;h4 id=&#34;documentation&#34;&gt;Documentation&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/ps3linux-docs&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        PS3 Linux Docs&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;br&gt;&#xA;Docs from the (latest) PS3 Linux Distributor&amp;rsquo;s Starter Kit&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/cellsdk-docs/3.0&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        Cell SDK 3.0 Docs&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;br&gt;&#xA;Docs installed by the Cell 3.0 SDK (from the &lt;code&gt;/opt/cell/sdk/docs&lt;/code&gt; directory)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/cellsdk-docs/3.1&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        Cell SDK 3.1 Docs&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;br&gt;&#xA;Docs installed by the Cell 3.1 SDK (from the &lt;code&gt;/opt/cell/sdk/docs&lt;/code&gt; directory)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;https://www.amazon.com/Programming-Cell-Processor-Graphics-Computation/dp/0136008860&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        Programming the Cell Procesor for Games, Graphics, and Computation&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;br&gt;&#xA;by Matthew Scarpino&lt;br&gt;&#xA;Buy this book and learn Cell programming along with me.&lt;br&gt;&#xA;Note: The above is not an aphiliate link. Just a book I reccomend :-)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;hosted-cell-sdk-yum-repos&#34;&gt;Hosted Cell SDK Yum Repos&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/cellsdk-repos&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        http://www.ps3linux.net/cellsdk-repos&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;br&gt;&#xA;If connecting from a PS3, you will want to install software from the ppc64 and cbea subdirectories.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;cell-software-development-kits&#34;&gt;Cell Software Development Kits&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/CellSDK20.iso&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        CellSDK20.iso&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/CellSDK21.iso&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        CellSDK21.iso&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/CellSDK-Devel-Fedora_3.0.0.1.0.iso&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        CellSDK-Devel-Fedora_3.0.0.1.0.iso&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/CellSDK-Extras-Fedora_3.0.0.1.0.iso&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        CellSDK-Extras-Fedora_3.0.0.1.0.iso&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/cellsdk-devel-rhel_3.1.0.0.0.iso&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        cellsdk-devel-rhel_3.1.0.0.0.iso&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/cellsdk-extras-rhel_3.1.0.0.0.iso&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        cellsdk-extras-rhel_3.1.0.0.0.iso&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/cellsdk-open-rhel_3.1.0.0.0.tar.bz2&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        cellsdk-open-rhel_3.1.0.0.0.iso&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>CELL SYSTEM SIMULATOR</title>
+      <link>http://localhost:1313/systemsim-cell/</link>
+      <pubDate>Tue, 06 Aug 2024 22:20:19 -0400</pubDate>
+      <guid>http://localhost:1313/systemsim-cell/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-cellbe-system-simulator&#34;&gt;The Cell/B.E. System Simulator&lt;/h3&gt;&#xA;&lt;p&gt;IBM&amp;rsquo;s Cell CPU Full System Simulator is basically a super debugger for Cell applications. It creates a software-defined Cell processor on which it can boot and run a &amp;ldquo;virtual&amp;rdquo; Linux system (Fedora 9 by default). This software does install on the Playstation 3 in Fedora 12 (OtherOS) and it actually runs surprisingly well. The Cell System Simulator provides detailed low-level statistics on exactly how your Cell applications execute on the hardware and it is especially useful for tuning your code for optimal performance on the Cell Broadband Engine platform.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>EXTRAS</title>
+      <link>http://localhost:1313/extras/</link>
+      <pubDate>Tue, 06 Aug 2024 22:19:24 -0400</pubDate>
+      <guid>http://localhost:1313/extras/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h3 id=&#34;misc-downloads&#34;&gt;Misc Downloads&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a&#xA;    &#xA;        href = &#34;http://www.ps3linux.net/ps3-filez/yellowdog-6.2-ppc-DVD.iso&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        Yellow Dog Linux 6.2 PPC DVD for PS3&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>PS3 LINUX FROM SCRATCH</title>
+      <link>http://localhost:1313/ps3lfs/</link>
+      <pubDate>Tue, 06 Aug 2024 22:19:01 -0400</pubDate>
+      <guid>http://localhost:1313/ps3lfs/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;COMMING SOON: PS3 Linux from Scratch content&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PS3 GENTOO</title>
+      <link>http://localhost:1313/ps3gentoo/</link>
+      <pubDate>Tue, 06 Aug 2024 22:18:52 -0400</pubDate>
+      <guid>http://localhost:1313/ps3gentoo/</guid>
+      <description>&lt;h2 id=&#34;gentoo-linux-on-the-playstation-3&#34;&gt;Gentoo Linux on the Playstation 3&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;COMMING SOON: PS3 Gentoo content&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PS3 FEDORA</title>
+      <link>http://localhost:1313/ps3fedora/</link>
+      <pubDate>Tue, 06 Aug 2024 22:18:44 -0400</pubDate>
+      <guid>http://localhost:1313/ps3fedora/</guid>
+      <description>&lt;h2 id=&#34;fedora-12-ppc-on-playstation-3&#34;&gt;Fedora 12 (ppc) on Playstation 3&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/pics/ps3-good-angle-320.jpg&#34; alt=&#34;Prettu PS3 Pic&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The latest Fedora release that is compatible/installable on the Playstation 3 is Fedora 12 (ppc). There are several good reasons to choose Fedora 12 as your PS3 Linux distro. For one thing, the online software repositories are still up (archived) and accessible. Obviously they are no longer receiving updates, but the volume/variety of applications they provide is impressive. This also includes the RPM Fusion repos. Furthermore, the programming tools and libraries for the PS3&amp;rsquo;s Cell architecture were developed by Sony/IBM to install and run on RPM based distributions (such as Fedora or RHEL) and I have personally confirmed that these tools do install and function properly in Fedora 12 with minimal issues/complications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JAILBREAKING</title>
+      <link>http://localhost:1313/jailbreaking/</link>
+      <pubDate>Tue, 06 Aug 2024 20:27:15 -0400</pubDate>
+      <guid>http://localhost:1313/jailbreaking/</guid>
+      <description>&lt;h2 id=&#34;disclaimer-for-education-only-if-you-brick-your-console-thats-your-fault&#34;&gt;DISCLAIMER: &lt;em&gt;For education only. If you brick your console, that&amp;rsquo;s YOUR fault!&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/pics/ps3-black-bg-320.jpg&#34; alt=&#34;Black Beauty&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This page contains all the files I used in the process of setting up my Playstation 3 to boot and run Linux. It also contains an outline of the steps I followed to complete the procedure. Links to important websites (like Bguerville&amp;rsquo;s magical &lt;a&#xA;    &#xA;        href = &#34;https://www.ps3toolset.com/bgtoolset&#34;&#xA;    &#xA;    &#xA;    &#xA;        target = &#34;_blank&#34;&#xA;        rel = &#34;nofollow noopener noreferrer&#34;&#xA;    &gt;&#xA;    &lt;span&gt;&#xA;        ps3toolset&#xA;    &lt;/span&gt;&#xA;&lt;/a&gt;&#xA;&#xA; - THANK YOU, BGUERVILLE; GREAT WORK!) and some helpful Youtube tutorials are provided as well.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

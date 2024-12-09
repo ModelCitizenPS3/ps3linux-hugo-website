@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <title>JAILBREAKING // PS3LINUX.NET</title>
+    <link rel="shortcut icon" href="" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.139.3">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="The Model Citizen" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="/css/main.min.5b1fcc8902588589c4767187402a3c29f8b8d7a6fdef6d9f8f77045bb0d14fee.css" />
+    
+
+    
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="JAILBREAKING">
+  <meta name="twitter:description" content="DISCLAIMER: For education only. If you brick your console, that’s YOUR fault! This page contains all the files I used in the process of setting up my Playstation 3 to boot and run Linux. It also contains an outline of the steps I followed to complete the procedure. Links to important websites (like Bguerville’s magical ps3toolset - THANK YOU, BGUERVILLE; GREAT WORK!) and some helpful Youtube tutorials are provided as well.">
+
+    <meta property="og:url" content="http://localhost:1313/jailbreaking/">
+  <meta property="og:site_name" content="PS3LINUX.NET">
+  <meta property="og:title" content="JAILBREAKING">
+  <meta property="og:description" content="DISCLAIMER: For education only. If you brick your console, that’s YOUR fault! This page contains all the files I used in the process of setting up my Playstation 3 to boot and run Linux. It also contains an outline of the steps I followed to complete the procedure. Links to important websites (like Bguerville’s magical ps3toolset - THANK YOU, BGUERVILLE; GREAT WORK!) and some helpful Youtube tutorials are provided as well.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2024-08-06T20:27:15-04:00">
+    <meta property="article:modified_time" content="2024-08-06T20:27:15-04:00">
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="http://localhost:1313/"><img class="app-header-avatar" src="/pics/avatar.jpg" alt="The Model Citizen" /></a>
+      <span class="app-header-title">PS3LINUX.NET</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Wilkommen</a>
+            <br>
+          
+          <a class="app-header-menu-item" href="/jailbreaking/">Jailbreaking</a>
+            <br>
+          
+          <a class="app-header-menu-item" href="/ps3fedora/">PS3 Fedora</a>
+            <br>
+          
+          <a class="app-header-menu-item" href="/ps3gentoo/">PS3 Gentoo</a>
+            <br>
+          
+          <a class="app-header-menu-item" href="/ps3lfs/">PS3 Linux from Scratch</a>
+            <br>
+          
+          <a class="app-header-menu-item" href="/cell-development/">Cell Development</a>
+            <br>
+          
+          <a class="app-header-menu-item" href="/systemsim-cell/">Cell System Simulator</a>
+            <br>
+          
+          <a class="app-header-menu-item" href="/extras/">Extras</a>
+      </nav>
+      <p>Obsessed with Linux on Playstation 3 and the Cell CPU</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/ModelCitizenPS3/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="https://www.youtube.com/channel/UCt1mQjAb5WNd9fGsDX-rc9A/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-youtube">
+  <title>Youtube</title>
+  <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">JAILBREAKING</h1>
+    </header>
+    <div class="post-content">
+      <h2 id="disclaimer-for-education-only-if-you-brick-your-console-thats-your-fault">DISCLAIMER: <em>For education only. If you brick your console, that&rsquo;s YOUR fault!</em></h2>
+<hr>
+<p><img src="/pics/ps3-black-bg-320.jpg" alt="Black Beauty"></p>
+<p>This page contains all the files I used in the process of setting up my Playstation 3 to boot and run Linux. It also contains an outline of the steps I followed to complete the procedure. Links to important websites (like Bguerville&rsquo;s magical <a
+    
+        href = "https://www.ps3toolset.com/bgtoolset"
+    
+    
+    
+        target = "_blank"
+        rel = "nofollow noopener noreferrer"
+    >
+    <span>
+        ps3toolset
+    </span>
+</a>
+
+ - THANK YOU, BGUERVILLE; GREAT WORK!) and some helpful Youtube tutorials are provided as well.</p>
+<p>So, currently there are two methods of preparing (hacking) a Playstation 3 for the purpose of running Linux. Probably the more popular method (as it applies to a larger number of consoles) is to install a custom firmware (like REBUG) that supports partitioning the PS3&rsquo;s HDD and launching the bootloader (petitboot) from a custom menu of hacks. This method is sometimes referred to as OtherOS++ and will work on any Playstation 3 capable of flashing custom firmware (CFW). The other method to configure a PS3 for Linux involves using a custom firmware to perform a &ldquo;downgrade&rdquo; of the console&rsquo;s system software such that an official Sony firmware of release number 3.15 or lower may be installed. Sony&rsquo;s firmware 3.15 is the last official firmware that natively supported booting OtherOS (Linux) and contained options in the settings menu for paritioning the PS3&rsquo;s HDD, installing a bootloader (kboot or petitboot), and dual booting between Sony&rsquo;s GameOS and OtherOS. For this method to work, you must have a Playstation 3 old enough to flash a firmware of release 3.15 or lower. My PS3 (a CECHP-01) happens to be old enough to flash an OtherOS firmware so that is the method I used on my console, and it is also the procedure that I here describe (see below).</p>
+<h4 id="downloads---some-firmwares-and-a-bootloader-for-downgrading-and-linux-prep">Downloads - Some Firmwares and a Bootloader (for Downgrading and Linux Prep)</h4>
+<ul>
+<li><a
+    
+        href = "/ps3-filez/REBUG_CRC67E4A95C_FWv4.84.2_REX_PS3UPDAT.PU"
+    
+    
+    >
+    <span>
+        REBUG_CRC67E4A95C_FWv4.84.2_REX_PS3UPDAT.PU
+    </span>
+</a>
+
+<br>
+MD5 - 0835d81e3c581f3bdfdfbe86fca5e192<br>
+Rebug custom firmware (CFW) 4.84.2 REX - Supports conversion from CEX (retail) to DEX (debug)</li>
+<li><a
+    
+        href = "/ps3-filez/3.55DEXDOWNGRADERB4E.PUP"
+    
+    
+    >
+    <span>
+        3.55DEXDOWNGRADERB4E.PUP
+    </span>
+</a>
+
+<br>
+MD5 - efa62388ee8d2592727ddbdce9b4bec8<br>
+DEX downgrader CFW - Installs on DEX PS3s, permits flashing with obsoleted (downgraded) firmwares</li>
+<li><a
+    
+        href = "/ps3-filez/DEX_CRC7CCB04C0_FWv3.15_PS3UPDAT.PUP"
+    
+    
+    >
+    <span>
+        DEX_CRC7CCB04C0_FWv3.15_PS3UPDAT.PUP
+    </span>
+</a>
+
+<br>
+MD5 - DEX_CRC7CCB04C0_FWv3.15_PS3UPDAT.PUP<br>
+Official (Sony) firmware 3.15 (DEX) - Natively supports dual booting between GameOS and OtherOS (Linux)<br>
+This is the firmware I use on my console for all of my PS3 Linux exploits &amp; endeavors. I love this firmware.</li>
+<li><a
+    
+        href = "/ps3-filez/ps3-petitboot-09.11.30-cui.bld"
+    
+    
+    >
+    <span>
+        ps3-petitboot-09.11.30-cui.bld
+    </span>
+</a>
+
+<br>
+MD5 - 7969b377ac5727c8e602d6de0716f0b4<br>
+PS3 Petitboot - A kexec-based PowerPC Linux bootloader. Works like GRUB (on x86 machines)</li>
+<li><a
+    
+        href = "/ps3-filez/REBUG_CRC63F00899_FWv4.84.2_D-REX_PS3UPDAT.PUP"
+    
+    
+    >
+    <span>
+        REBUG_CRC63F00899_FWv4.84.2_D-REX_PS3UPDAT.PUP
+    </span>
+</a>
+
+<br>
+MD5 - 9211252d41841461c6299bfad48fa7f1<br>
+Rebug custom firmware (CFW) 4.84.2 D-REX - Supports conversion from DEX (debug) back to CEX (retail)</li>
+</ul>
+<h4 id="downgrading-the-playstation-3-to-re-enable-otheros-linux">Downgrading the Playstation 3 to Re-Enable OtherOS (Linux)</h4>
+<ol>
+<li><em><strong>Jailbreak Your Console</strong></em><br>
+Navigate your PS3&rsquo;s GameOS web browser to Bguerville&rsquo;s ps3toolset site:<br>
+<a
+    
+        href = "https://www.ps3toolset.com/bgtoolset"
+    
+    
+    
+        target = "_blank"
+        rel = "nofollow noopener noreferrer"
+    >
+    <span>
+        https://www.ps3toolset.com/bgtoolset
+    </span>
+</a>
+
+.<br>
+Follow this video by Mr. Mario to perpetrate your jailbreak:<br>
+<a
+    
+        href = "https://youtu.be/LIVu3Px3eXY"
+    
+    
+    
+        target = "_blank"
+        rel = "nofollow noopener noreferrer"
+    >
+    <span>
+        How to Jailbreak Your PS3 with PS3 Toolset
+    </span>
+</a>
+
+.</li>
+<li><em><strong>Install REBUG_CRC67E4A95C_FWv4.84.2_REX_PS3UPDAT.PUP Custom Firmware</strong></em><br>
+After jailbreak, reboot the console and perform a firmware &ldquo;upgrade&rdquo; using REBUG custom firmware (see above for download).</li>
+<li><em><strong>Perform Firmware Conversion from CEX (retail) to DEX (debug)</strong></em><br>
+Follow this video by Mr. Mario (if needed) to perform CEX to DEX conversion:<br>
+<a
+    
+        href = "https://youtu.be/tmpexUf9eK0"
+    
+    
+    
+        target = "_blank"
+        rel = "nofollow noopener noreferrer"
+    >
+    <span>
+        How to Convert a Jailbroke PS3 from CEX to DEX with REBUG
+    </span>
+</a>
+
+<br>
+Note: This step is a bit scary for noobs. Bear in mind that this conversion is totally reversible (see below).</li>
+<li><em><strong>Install 3.55DEXDOWNGRADERB4E.PUP Custom Firmware</strong></em><br>
+Perform a firmware update using custom firmware 3.55DEXDOWNGRADERB4E.PUP (see downloads above).<br>
+This DEX &ldquo;downgrader&rdquo; is pre-configured to permit flashing with Sony&rsquo;s official (DEX) firmware 3.15 in the next step.</li>
+<li><em><strong>Install Official Sony Firmware DEX_CRC7CCB04C0_FWv3.15_PS3UPDAT.PUP</strong></em><br>
+Finally, flash firmware DEX_CRC7CCB04C0_FWv3.15_PS3UPDAT.PUP to the PS3 using the usual update procedure.<br>
+After install, your PS3 will be setup just like mine, and you will have re-enabled support for OtherOS on your console&hellip; goodie gum-drops!</li>
+<li><em><strong>Format the PS3&rsquo;s HDD and Create a Partition for OtherOS</strong></em><br>
+Look in the system menu (under Settings) and select the option to perform a quick format of the PS3&rsquo;s hard drive.<br>
+You will be given options for if (and how) you would like to partition the drive for OtherOS.<br>
+Personally, I chose to give GameOS 10% of HDD space and designated the remaining storage available for Linux (OtherOS).</li>
+<li><em><strong>Install PS3 Petitboot (your PowerPC Linux Bootloader)</strong></em><br>
+Copy ps3-petitboot-09.11.30-cui.bld to the correct directory (<code>/PS3/otheros</code>) on a fat32-formatted USB drive and rename the file as <code>otheros.bld</code>.<br>
+With the USB drive in the PS3, select &ldquo;Install OtherOS&rdquo; from the System menu (under Settings) and your Linux bootloader will install.</li>
+<li><em><strong>Reboot Your Playstation 3 into OtherOS</strong></em><br>
+Select &ldquo;Default System&rdquo; in your System menu (under Settings) and switch it from PS3 to OtherOS.<br>
+After reboot, your PS3 will load the petitboot bootloader menu; you can now go about installing a PS3-compatible Linux distro.<br>
+My strong suggestion would be to try out Fedora 12, a stupendous operating system for the PS3.<br>
+Follow this video by me (the Model Citizen) demonstrating a network (diskless) Fedora 12 install on my own PS3:<br>
+<a
+    
+        href = "https://youtu.be/D9LcyRV84LI"
+    
+    
+    
+        target = "_blank"
+        rel = "nofollow noopener noreferrer"
+    >
+    <span>
+        PS3 Fedora Server Install (OtherOS) Diskless
+    </span>
+</a>
+
+</li>
+</ol>
+<h4 id="to-convert-firmware-type-from-dex-debug-back-to-cex-retail">To Convert Firmware Type from DEX (debug) Back to CEX (retail)</h4>
+<ol>
+<li><em><strong>Install REBUG_CRC63F00899_FWv4.84.2_D-REX_PS3UPDAT.PUP Custom Firmware</strong></em><br>
+Update system firmware with this REBUG DEX custom firmware, which can be converted from DEX back to CEX.</li>
+<li><em><strong>Execute Firmware Conversion</strong></em><br>
+Follow this video by ZoexModz to perform DEX to CEX conversion:<br>
+<a
+    
+        href = "https://youtu.be/MyOmOz6P898"
+    
+    
+    
+        target = "_blank"
+        rel = "nofollow noopener noreferrer"
+    >
+    <span>
+        DEX to CEX &amp; eid_root_key Fix
+    </span>
+</a>
+
+</li>
+</ol>
+<hr>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>
