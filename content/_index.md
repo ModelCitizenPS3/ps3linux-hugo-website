@@ -11,21 +11,21 @@ layout = 'single'
 
 ![Cell CPU](/pics/cell_cpu_320.png)
 
-#### THE MODEL CITIZEN (he/him/webmaster)
+#### Webmaster: THE MODEL CITIZEN (he/him)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id pulvinar erat, ac tempus dolor. Nulla facilisi. Donec scelerisque non ante quis elementum. Nulla facilisi. Morbi turpis magna, fringilla sit amet odio ut, rhoncus efficitur dolor. Nam et suscipit nisi. Nulla facilisi. Maecenas porta urna lacus, eget placerat neque pretium lacinia. Suspendisse maximus massa id neque ornare, consectetur mattis ipsum convallis. In blandit lobortis nisi semper tempus. Morbi egestas turpis nec turpis consequat molestie ac quis urna. Praesent ac viverra.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id pulvinar erat, ac tempus dolor. Nulla facilisi. Donec scelerisque non ante quis elementum. Nulla facilisi. Morbi turpis magna, fringilla sit amet odio ut, rhoncus efficitur dolor. Nam et suscipit nisi. Nulla facilisi. Maecenas porta urna lacus, eget placerat neque pretium lacinia. Suspendisse maximus massa id neque ornare, consectetur mattis ipsum convallis. In blandit lobortis nisi semper tempus.
 
 #### My Playstation 3 Consoles
 
 Name: [The Gibson](http://www.ps3linux.net/pics/gibson_on_desk.png)  
 Model: [CECHP-01](https://www.psdevwiki.com/ps3/CECHPxx)  
 Firmware: Sony (Official) 3.15 DEX  
-Operating System(s): GameOS (Sony), Fedora 12, Gentoo, and Linux From Scratch
+Operating System(s): GameOS, Fedora 12, Gentoo, Linux From Scratch
 
 Name: [Cordulla](http://www.ps3linux.net/pics/cordulla_on_desk.png)  
-Model: [CECHH-00](https://www.psdevwiki.com/ps3/CECHHxx) (YLOD)  
-Firmware: EVILNAT 4.91.2 (Custom Firmware)  
-Operating System(s): GameOS (Sony)
+Model: [CECHH-00](https://www.psdevwiki.com/ps3/CECHHxx) (YLOD... Schade)  
+Firmware: EVILNAT 4.91.2 (CFW)  
+Operating System(s): GameOS
 
 ---
 
