@@ -1,17 +1,15 @@
 +++
-title = 'PS3 JAILBREAKING and DOWNGRADING for OtherOS'
+title = 'PS3 JAILBREAK & DOWNGRADE - Re-Enabling OtherOS'
 date = 2024-08-06T20:27:15-04:00
 draft = false
 layout = 'single'
 +++
 
-### ACHTUNG! *For education only. If you brick your console, that's YOUR fault!*
+### *ACHTUNG! For education only. If you brick your console, that's YOUR fault!*
 
 ---
 
-![Black Beauty](/pics/ps3-black-bg-320.jpg)
-
-This page contains all the files I used in the process of setting up my Playstation 3 to boot and run Linux. It also contains an outline of the steps I followed to complete the procedure.
+This page contains all the files I used in the process of setting up my Playstation 3 to boot and run Linux. It also contains an outline of the steps I followed to complete the procedure on my console.
 
 So, currently there are two methods of preparing (hacking) a Playstation 3 for the purpose of running Linux. Probably the more popular method (as it applies to a larger number of consoles) is to install a custom firmware (like REBUG) that supports partitioning the PS3's HDD and launching the bootloader (petitboot) from a custom menu of hacks. This method is sometimes referred to as OtherOS++ and will work on any Playstation 3 capable of flashing custom firmware (CFW). The other method to configure a PS3 for Linux involves using a custom firmware to perform a "downgrade" of the console's system software such that an official Sony firmware of release number 3.15 or lower may be installed. Sony's firmware 3.15 is the last official firmware that natively supported booting OtherOS (Linux) and contained options in the settings menu for paritioning the PS3's HDD, installing a bootloader (kboot or petitboot), and dual booting between Sony's GameOS and OtherOS. For this method to work, you must have a Playstation 3 old enough to flash a firmware of release 3.15 or lower. My PS3 (a CECHP-01) happens to be old enough to flash an OtherOS firmware so that is the method I used on my console, and it is also the procedure that I here describe (see below).
 
