@@ -13,7 +13,7 @@ layout = 'single'
 
 #### Webmaster: THE MODEL CITIZEN (he/him)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id pulvinar erat, ac tempus dolor. Nulla facilisi. Donec scelerisque non ante quis elementum. Nulla facilisi. Morbi turpis magna, fringilla sit amet odio ut, rhoncus efficitur dolor. Nam et suscipit nisi. Nulla facilisi. Maecenas porta urna lacus, eget placerat neque pretium lacinia. Suspendisse maximus massa id neque ornare, consectetur mattis ipsum convallis. In blandit lobortis nisi semper tempus.
+the apsolude gigachad of PS3 and gentoo,Compiled an entire Gentoo system during a single gaming session, “Known for wearing a Fedora—not ironically, “Keeps a backup PS3 under his bed ‘just in case, and’also Optimized Gentoo kernel config faster than you can say emerge world. - Slim Compiler
 
 #### My Playstation 3 Consoles
 
